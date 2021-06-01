@@ -1,0 +1,39 @@
+{
+  "trivias": [
+    {
+      "username": "Reddy Mouneeswar",
+      "cricketer": "Jacques Kallis",
+      "id": 1
+    },
+    {
+      "username": "Mouniswar",
+      "cricketer": "Sachin Tendulkar",
+      "id": 2
+    },
+    {
+      "username": "Satheesh Kumar",
+      "cricketer": "Jacques Kallis",
+      "id": 3
+    },
+    {
+      "username": "Satheesh Kumar",
+      "cricketer": "Jacques Kallis",
+      "id": 4
+    },
+    {
+      "username": "helloworld",
+      "cricketer": "Sachin Tendulkar",
+      "id": 5
+    },
+    {
+      "username": "helloworld",
+      "cricketer": "Sachin Tendulkar",
+      "id": 6
+    },
+    {
+      "username": "helloworld",
+      "cricketer": "Sachin Tendulkar",
+      "id": 7
+    }
+  ]
+}
